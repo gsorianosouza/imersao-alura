@@ -42,7 +42,7 @@ O dashboard utiliza um tema escuro personalizado:
 
 ## 🚀 Ver Dashboard Online
 
-[![Preview do Dashboard](assets/dashboard.png)](https://imersao-alura-gabriel-soriano.streamlit.app/)
+[![Preview do Dashboard](assets/dashboard.png)](https://imersao-alura-gsorianosouza.streamlit.app/)
 
 ## 📂 Estrutura do projeto
 
