@@ -65,11 +65,13 @@ IMERSAO-ALURA/
 
 ## ⚙️ Como executar o projeto
 
+``` 
+
 ### 1️⃣ Clonar o repositório
 
 gitbash: 
 
-git clone 
+git clone https://github.com/gsorianosouza/imersao-alura
 cd IMERSAO-ALURA
 
 ### 2️⃣ Criar ambiente virtual (recomendado)
@@ -84,8 +86,6 @@ pip install -r requirements.txt
 ### 4️⃣ Executar o dashboard
 
 streamlit run dashboard_salarios/app.py
-
-```
 
 📈 Fonte dos dados
 
