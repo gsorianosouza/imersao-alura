@@ -42,21 +42,24 @@ O dashboard utiliza um tema escuro personalizado:
 
 ## 📂 Estrutura do projeto
 
+```text
 IMERSAO-ALURA/
-    dashboard_salarios/ 
-        app.py     # Arquivo principal que executa o app
-        charts.py  # Funções responsáveis pelos gráficos
-        data.py    # Carregamento do dataset
-        filters.py # Lógica dos filtros laterais
-        styles.py  # Tema visual e CSS
 
-    streamlit/
-    config.toml # Configurações do Streamlit
+dashboard_salarios/
+    app.py        # Arquivo principal que executa o app
+    charts.py     # Funções responsáveis pelos gráficos
+    data.py       # Carregamento do dataset
+    filters.py    # Lógica dos filtros laterais
+    styles.py     # Tema visual e CSS
+
+streamlit/
+    config.toml   # Configurações do Streamlit
 
 README.md
 dados-imersao-final.csv
 requirements.txt
 .gitignore
+```
 
 ---
 
