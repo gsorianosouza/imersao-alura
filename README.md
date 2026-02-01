@@ -65,58 +65,52 @@ IMERSAO-ALURA/
 
 ## ⚙️ Como executar o projeto
 
-``` 
-
 ### 1️⃣ Clonar o repositório
-
+```
 gitbash: 
 
 git clone https://github.com/gsorianosouza/imersao-alura
 cd IMERSAO-ALURA
-
+```
 ### 2️⃣ Criar ambiente virtual (recomendado)
-
+```
 python -m venv .venv
 .venv\Scripts\activate  # Windows
-
+```
 ### 3️⃣ Instalar dependências
-
+```
 pip install -r requirements.txt
-
+```
 ### 4️⃣ Executar o dashboard
-
+```
 streamlit run dashboard_salarios/app.py
+```
 
-📈 Fonte dos dados
+### 📈 Fonte dos dados
 
 Base de dados utilizada na Imersão Dados Alura, contendo informações sobre:
-
+```
 Salários anuais em USD
-
 Cargos na área de dados
-
 País de residência
-
 Nível de senioridade
-
 Tipo de contrato
-
 Modelo de trabalho
+```
 
-🎯 Objetivo do projeto
+### 🎯 Objetivo do projeto
 
 Este projeto foi desenvolvido para praticar:
-
+```
 Análise de dados com Pandas
-
 Criação de dashboards interativos
-
 Visualização de dados com Plotly
-
 Organização de código em arquitetura modular
-
 Boas práticas de interface para dashboards
+```
 
-👨‍💻 Autor
+### 👨‍💻 Autor
 
+```
 Projeto desenvolvido por Gabriel Soriano durante a Imersão Dados + Python Alura (2026).
+```
