@@ -49,6 +49,9 @@ O dashboard utiliza um tema escuro personalizado:
 ```text
 IMERSAO-ALURA/
 
+assets/
+    dashboard.png
+
 dashboard_salarios/
     app.py        # Arquivo principal que executa o app
     charts.py     # Funções responsáveis pelos gráficos
